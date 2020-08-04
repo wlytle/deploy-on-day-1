@@ -1,19 +1,5 @@
 # Deploy on Day One
 
-## Contents
-
-|Section                            |
-|-----------------------------------|
-|[History](#history)                |
-|[Assignment](#assignment)          |
-|[Requirements](#requirements)      |
-|[File Structure](#structure)       |
-|[Getting Started](#getting-started)|
-|[Next Steps](#next-steps)          |
-|[Final Steps](#final-steps)        |
-|[Resources](#resources)            |
-|[Issues](#issues)                  |
-
 ## History
 
 Welcome to Flatiron! One of the first tasks we do together as a cohort is create
